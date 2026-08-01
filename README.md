@@ -8,7 +8,7 @@ This repository contains a collection of public datasets for Data Analytics,Exce
 - Employee Dataset
 - IPL Dataset
 - Sales Dataset
-- Student Dataset
+- Student_marks Dataset
   
 
 
